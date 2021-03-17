@@ -1,0 +1,9 @@
++ 5 9
+mod 8 3
+- 500 21
+* 33 3
+/ 125 5
+square 4
+pow 2 5
+cube 8
+hey hey
